@@ -53,4 +53,3 @@ const switchNavigator = createSwitchNavigator({
 })
   
   const AppContainer =  createAppContainer(switchNavigator);
-
